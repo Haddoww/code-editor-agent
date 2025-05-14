@@ -1,0 +1,20 @@
+1. Comment-first, then refactor
+"I’m struggling to understand what this code does. Can you first explain it with comments and then make the variable names clearer?"
+
+2. Refactor-first, then add tests
+"Please clean up this messy code and then make sure it has proper test cases to catch errors."
+
+3. Test coverage focused
+"I want to make sure this logic handles edge cases — please add meaningful test cases first, and then leave TODOs for improvements."
+
+4. Debuggability focused
+"Help me debug this. Add print statements where needed, and mark areas that might be problematic."
+
+5. Documentation and robustness
+"Make this code production-ready by documenting what it does and adding tests to verify each function."
+
+6. Full polish pass
+"Please improve this code fully — make it easier to read, understand, debug, and maintain."
+
+7. Goal achieved early (for pause-and-reassess logic)
+"All I need is to better understand this code."

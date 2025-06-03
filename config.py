@@ -1,4 +1,4 @@
 from openai import OpenAI
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "no"
 client = OpenAI(api_key = OPENAI_API_KEY)
